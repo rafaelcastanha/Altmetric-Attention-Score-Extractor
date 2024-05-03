@@ -14,3 +14,5 @@ The code saves the "Score List.txt" in your dir containing the DOI and the respe
 The command "aas" shows the Altmetric Attention Scores' values from each DOI
 
 contact: rafael.castanha@unesp.br // r.castanha@gmail.com
+
+This code was used in the article: Gutierres Castanha, R. ., Savegnago de Mira, B., & Rodrigues Delbianco, N. (2024). Atención en línea de artículos no citados en Ciencia de la Información. Investigación Bibliotecológica: Archivonomía, bibliotecología E información, 38(98), 145–163. https://doi.org/10.22201/iibi.24488321xe.2024.98.58854
